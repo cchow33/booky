@@ -3,7 +3,7 @@
   margin: 0px !important;
 }
 .background {
-  /* background-image: url('./assets/painting-bk.jpg'); */
+  background-image: url('./assets/painting-bk.jpg');
   background-position: center;
   background-repeat: repeat-y;
   height: 100%;
